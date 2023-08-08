@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+    
+
+}
+
+header {
+    background-color: black;
+    
+}
+
+.titulo {
+    text-align: center;
+    color: white;
+    margin-top: 0;
+    padding: 2%;
+} 
+    
+
+.listado {
+    background-color: rgba(138, 133, 133, 0.39);
+    color: rgb(10, 10, 10);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 5%;
+    padding: 2%;
+    width: 40%;
+    height: max-content;
+
+}
+
+h3 {
+    font-size: 20pt;
+}
+
+p {
+    margin-top: 6%;
+}
+
+input {
+    margin-top: 5%;
+}
+
+.tareas {
+    text-align: justify;
+    margin-top: 5%;
+}
